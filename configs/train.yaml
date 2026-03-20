@@ -1,0 +1,10 @@
+trainer:
+  epochs: 3
+  batch_size: 8
+  lr: 1e-4
+model:
+  base_model: 'nemotron-3-nano-30b'
+  lora_rank: 8
+data:
+  train_path: '../data/train.csv'
+  val_path: '../data/val.csv'
