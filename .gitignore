@@ -13,13 +13,22 @@ data/
 *.jsonl
 *.parquet
 
-# Notebooks
-.ipynb_checkpoints
-
 # Models
+models/
 checkpoints/
 *.ckpt
 *.pth
+*.bin
+*.safetensors
+
+# Experiments
+experiments/
+*.log
+tensorboard/
+wandb/
+
+# Notebooks
+.ipynb_checkpoints
 
 # Misc
 .DS_Store
