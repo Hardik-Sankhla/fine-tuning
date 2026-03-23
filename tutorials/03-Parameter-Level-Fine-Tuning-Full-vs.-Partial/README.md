@@ -1,8 +1,14 @@
 ﻿# Session 03: Parameter Level Fine-Tuning: Full vs. Partial
 
-## Description
+## What You Will Learn
 
-This session includes concept notes, practical checkpoints, and implementation guidance for the topic in focus. Use the linked notebook to run examples and adapt them to your own fine-tuning workflow.
+This session compares full-parameter fine-tuning against partial fine-tuning strategies, with emphasis on memory footprint, training speed, convergence behavior, and downstream quality trade-offs.
+
+## Practical Outcomes
+
+- Decide when full fine-tuning is justified versus PEFT alternatives.
+- Estimate VRAM and time requirements for each approach.
+- Understand how parameter count affects overfitting risk.
 
 ## Notebooks
 

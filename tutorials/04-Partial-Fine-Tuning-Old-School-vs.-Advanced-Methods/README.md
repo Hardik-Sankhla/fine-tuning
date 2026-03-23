@@ -1,8 +1,14 @@
 ﻿# Session 04: Partial Fine-Tuning: Old School vs. Advanced Methods
 
-## Description
+## What You Will Learn
 
-This session includes concept notes, practical checkpoints, and implementation guidance for the topic in focus. Use the linked notebook to run examples and adapt them to your own fine-tuning workflow.
+This session contrasts legacy partial-update methods (layer freezing and selective unfreezing) with modern adapter-based approaches to highlight efficiency, maintainability, and portability.
+
+## Practical Outcomes
+
+- Compare layer-freezing baselines against adapter-style methods.
+- Understand operational complexity when shipping each method.
+- Choose a strategy based on budget, latency, and quality targets.
 
 ## Notebooks
 

@@ -1,8 +1,14 @@
 ﻿# Session 02: LLM Training Pipeline Overview
 
-## Description
+## What You Will Learn
 
-This session includes concept notes, practical checkpoints, and implementation guidance for the topic in focus. Use the linked notebook to run examples and adapt them to your own fine-tuning workflow.
+This session breaks down the full lifecycle of training and adapting an LLM: data curation, tokenization, batching, optimization, validation, checkpointing, and deployment handoff.
+
+## Practical Outcomes
+
+- Map each pipeline stage to common tooling in the Hugging Face ecosystem.
+- Identify where most training failures happen (data, config, compute, or evaluation).
+- Build a checklist for reproducible training runs.
 
 ## Notebooks
 

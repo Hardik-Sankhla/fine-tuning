@@ -12,9 +12,14 @@ You will learn what problems fine-tuning solves, how it differs from pretraining
 - Identify where LoRA, QLoRA, RLHF, and DPO fit in production workflows.
 - Set expectations for compute, data quality, and evaluation requirements.
 
+## Before You Start
+
+- Confirm your Python environment and notebook runtime are ready.
+- Ensure access to at least one GPU-backed environment for practical sessions.
+- Skim the top-level project README to understand repository layout.
+
 ## Notebooks
 
 - [Jupyter Notebook](session-01.ipynb)
 - [Colab](https://colab.research.google.com/github/Hardik-Sankhla/fine-tuning/blob/main/tutorials/01-Introduction-and-Course-Syllabus/session-01.ipynb)
 - [Kaggle](https://www.kaggle.com/code)
-

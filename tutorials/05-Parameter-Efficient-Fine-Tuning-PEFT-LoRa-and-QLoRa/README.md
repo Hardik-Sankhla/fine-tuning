@@ -1,8 +1,14 @@
 ﻿# Session 05: Parameter Efficient Fine-Tuning (PEFT): LoRa & QLoRa
 
-## Description
+## What You Will Learn
 
-This session includes concept notes, practical checkpoints, and implementation guidance for the topic in focus. Use the linked notebook to run examples and adapt them to your own fine-tuning workflow.
+This session introduces LoRA and QLoRA as practical PEFT techniques for adapting large models under constrained GPU memory.
+
+## Practical Outcomes
+
+- Configure LoRA hyperparameters (rank, alpha, dropout) with intent.
+- Understand why QLoRA uses quantization plus adapters.
+- Run a memory-aware fine-tuning workflow suitable for consumer GPUs.
 
 ## Notebooks
 
